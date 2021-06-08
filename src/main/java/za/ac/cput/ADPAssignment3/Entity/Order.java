@@ -1,3 +1,4 @@
+
 /*
  *  Order.java
  *  Entity for for the Order
@@ -94,5 +95,4 @@ public class Order {
             return this;
         }
     }
-
 }

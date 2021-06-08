@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eea87da8-9f62-4dfb-b495-b180dcbfa9cc" name="Default Changelist" comment="Order entity  created">
+    <list default="true" id="eea87da8-9f62-4dfb-b495-b180dcbfa9cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/ADPAssignment3/Entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/ADPAssignment3/Entity/Order.java" afterDir="false" />
     </list>
@@ -16,17 +17,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tFOnTWB9ZfSSiLFHNexH0D49gj" />
@@ -69,56 +65,6 @@
       <workItem from="1622388765286" duration="23000" />
       <workItem from="1622642579656" duration="1551000" />
     </task>
-    <task id="LOCAL-00001" summary="First commit, .gitignore">
-      <created>1623177716184</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1623177716184</updated>
-    </task>
-    <task id="LOCAL-00002" summary="First commit, .gitignore">
-      <created>1623177749000</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1623177749000</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First commit, .gitignore">
-      <created>1623177788975</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1623177788975</updated>
-    </task>
-    <task id="LOCAL-00004" summary="First commit, .gitignore">
-      <created>1623178826510</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1623178826510</updated>
-    </task>
-    <task id="LOCAL-00005" summary="First commit, .gitignore">
-      <created>1623179220645</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1623179220645</updated>
-    </task>
-    <task id="LOCAL-00006" summary="First commit, .gitignore &#10;&#10;Order class created">
-      <created>1623179884561</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1623179884561</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Order entity  created">
-      <created>1623184343028</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1623184343028</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +83,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit, .gitignore" />
-    <MESSAGE value="First commit, .gitignore &#10;&#10;Order class created" />
-    <MESSAGE value="Order entity  created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Order entity  created" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/214254151Abo' into 214254151Abo&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/214254151Abo' into 214254151Abo&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
