@@ -25,18 +25,7 @@ public class Order {
         this.orderTotal = builder.orderTotal;
     }
 
-    @Override
-    public String toString() {
-        return "Order{" +
-                "custID='" + custID + '\'' +
-                ", productID='" + productID + '\'' +
-                ", orderDate='" + orderDate + '\'' +
-                ", orderShippedDate='" + orderShippedDate + '\'' +
-                ", orderAddress='" + orderAddress + '\'' +
-                ", orderStatus='" + orderStatus + '\'' +
-                ", orderTotal=" + orderTotal +
-                '}';
-    }
+
 
     public static class Builder{
         private String custID, productID, orderDate, orderShippedDate, orderAddress, orderStatus;
@@ -94,5 +83,17 @@ public class Order {
             this.orderTotal = order.orderTotal;
             return this;
         }
+    }
+    @Override
+    public String toString() {
+        return "Order{" +
+                "custID='" + custID + '\'' +
+                ", productID='" + productID + '\'' +
+                ", orderDate='" + orderDate + '\'' +
+                ", orderShippedDate='" + orderShippedDate + '\'' +
+                ", orderAddress='" + orderAddress + '\'' +
+                ", orderStatus='" + orderStatus + '\'' +
+                ", orderTotal=" + orderTotal +
+                '}';
     }
 }
