@@ -1,19 +1,21 @@
-/* Payment.java
- Entity for Payment Factory Test
+/* PaymentRepositoryTest.java
+ Entity for Payment Repository Test
  Author: Cameron van Wyk (219088470)
  Date: 23 July 2021
 */
 
 package za.ac.cput.Repository.User;
 
+import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.TestMethodOrder;
 import za.ac.cput.Entity.User.Payment;
 import za.ac.cput.Factory.User.PaymentFactory;
 
-import java.util.UUID;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@TestMethodOrder(MethodOrderer.MethodName.class)
 class PaymentRepositoryTest
 {
     private static PaymentRepository paymentRepository = new PaymentRepository();

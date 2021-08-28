@@ -1,4 +1,4 @@
-package za.ac.cput.Factory;
+package za.ac.cput.Factory.Product;
 
 /* SupplierFactoryTest.java
 Factory Test for Supplier

@@ -18,8 +18,9 @@ public class CustomerRepository implements ICustomerRepository {
     private static CustomerRepository repository = null;
     private Set<Customer> customerDB;
 
+    //Check
     private CustomerRepository() {
-        customerDB = new HashSet<>();
+        this.customerDB = new HashSet<>();
     }
 
     public static CustomerRepository getRepository() {

@@ -12,6 +12,8 @@ public class Customer {
     private String custID;
     private String custFirstName, custLastName, custContact, custEmail;
 
+    private Customer() {}
+
     private Customer(Builder builder) {
         this.custID = builder.custID;
         this.custFirstName = builder.custFirstName;

@@ -1,10 +1,10 @@
-/* Payment.java
+/* PaymentFactoryTest.java
  Entity for Payment Factory test
  Author: Cameron van Wyk (219088470)
  Date: 09 June 2021
 */
 
-package za.ac.cput.Factory;
+package za.ac.cput.Factory.User;
 
 import org.junit.jupiter.api.Test;
 import za.ac.cput.Entity.User.Payment;

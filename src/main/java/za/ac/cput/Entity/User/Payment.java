@@ -12,6 +12,11 @@ public class Payment
     private String paymentDate, paymentDetails;
     private double paymentTotal;
 
+    public Payment()
+    {
+        
+    }
+
     private Payment(Builder builder)
     {
         this.customerID = builder.customerID;

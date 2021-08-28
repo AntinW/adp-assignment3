@@ -6,7 +6,7 @@
  */
 
 
-package za.ac.cput.Factory;
+package za.ac.cput.Factory.Product;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;

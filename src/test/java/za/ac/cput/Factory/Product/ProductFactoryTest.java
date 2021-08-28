@@ -3,7 +3,7 @@ class to test validity of input provided
 Author: Antin Williams 219212058
 Date: 09 June 2021
  */
-package za.ac.cput.Factory;
+package za.ac.cput.Factory.Product;
 
 import org.junit.jupiter.api.Test;
 import za.ac.cput.Entity.Product.Product;

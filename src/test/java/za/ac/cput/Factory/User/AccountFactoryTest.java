@@ -1,4 +1,4 @@
-package za.ac.cput.Factory;
+package za.ac.cput.Factory.User;
 
 /* AccountFactoryTest.java
 Entity for the Account
