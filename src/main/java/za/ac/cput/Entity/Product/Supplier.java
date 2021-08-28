@@ -10,6 +10,14 @@ public class Supplier {
 
     private String supplierID, productID, supplierName, supplierEmail, supplierPhone;
 
+    public Supplier(String supplierID, String productID, String supplierName, String supplierEmail, String supplierPhone) {
+        this.supplierID = supplierID;
+        this.productID = productID;
+        this.supplierName = supplierName;
+        this.supplierEmail = supplierEmail;
+        this.supplierPhone = supplierPhone;
+    }
+
     private Supplier(Builder builder)
     {
         this.supplierID = builder.supplierID;
